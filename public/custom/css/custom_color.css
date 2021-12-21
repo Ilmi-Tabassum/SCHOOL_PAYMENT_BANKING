@@ -1,0 +1,45 @@
+.ab_bank_color{
+	color:#ee1b22 !important;
+}
+
+.dashboard_color{
+	background-color:#db4848 !important;
+}
+.dashboard_text{
+	color: #fff !important;
+}
+
+.link_color{
+	color:#ee1b22 !important;
+}
+
+.page-item.active .page-link {
+    color: #fff !important;
+    background-color: red !important;
+    border-color: red !important;
+}
+
+.page-link {
+   
+    color: red !important;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+ }
+
+ .table-bordered td, .table-bordered th {
+    border: 1px solid #c8c8c8 !important;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #ADD8E6 !important;
+}
+
+
+.leftNavbarStyle:hover{
+  
+  /*background-color: #fa3a3a !important;
+  margin-bottom:0px !important;
+  border-radius:none;*/
+ 
+
+}
