@@ -1,10 +1,7 @@
-# Welcome to AB Bank EMS
 
-php artisan storage:link
+php artisan 
 
 # We used
 * DOM PDF
 * PHP Excel
 
-# for mail
-php artisan make:mail config
